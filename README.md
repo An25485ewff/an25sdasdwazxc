@@ -15,9 +15,13 @@
 **HRes-Adapter** (Hierarchical Residual Stream Adapter) is a novel Parameter-Efficient Fine-Tuning (PEFT) framework built on top of [UniXcoder-base](https://huggingface.co/microsoft/unixcoder-base) for source code vulnerability detection. It trains only **0.958%** of the total model parameters while achieving balanced, generalizable predictions across multiple vulnerability benchmarks.
 
 > **Trained model weights are available on HuggingFace:**
-> ### 🔗 [[https://huggingface.co/An26745asdg/Unixcoder_HRes_PEFT](https://huggingface.co/An26745asdg/Unixcoder_HRes_PEFT/upload/main](https://huggingface.co/An26745asdg/Unixcoder_HRes_PEFT/tree/main))
+> ### 🔗 
 
 ---
+
+Trained model weights are available on HuggingFace:
+🔗 [Model](https://huggingface.co/An26745asdg/Unixcoder_HRes_PEFT/tree/main)
+
 
 ## Methodology
 
