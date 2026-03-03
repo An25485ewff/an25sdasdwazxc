@@ -23,7 +23,6 @@ Trained model weights are available on HuggingFace:
 🔗 [Model](https://huggingface.co/An26745asdg/Unixcoder_HRes_PEFT/tree/main)
 
 
-## Methodology
 
 
 
@@ -55,9 +54,9 @@ Output: Ŷ ∈ R^{B×2}  (vulnerability prediction logits)
 ```bash
 git clone https://github.com/YOUR_USERNAME/HRes-Adapter-PEFT.git
 cd HRes-Adapter-PEFT
+```
 
-
-**Requirements:**
+## Requirements:
 ```
 torch>=2.0.0
 transformers>=4.35.0
